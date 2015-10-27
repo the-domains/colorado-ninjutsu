@@ -1,12 +1,12 @@
 ---
 description: "One on One Ninjutsu Martial Arts & Sword training… Learn from Colorado’s ONLY Certified Master Ninjutsu Instructor… Contact me to apply. \_ Download Your FREE Tr"
 author: []
-datePublished: '2015-10-27T03:09:27.879Z'
+datePublished: '2015-10-27T03:09:28.801Z'
 publisher:
   domain: coloradoninjutsu.com
   name: coloradoninjutsu.com
 title: ''
-dateModified: '2015-10-27T03:09:22.037Z'
+dateModified: '2015-10-27T03:09:27.879Z'
 sourcePath: _posts/2015-10-27-one-on-one-ninjutsu-martial-arts-and-sword-training-learn-fro.md
 published: true
 inFeed: true

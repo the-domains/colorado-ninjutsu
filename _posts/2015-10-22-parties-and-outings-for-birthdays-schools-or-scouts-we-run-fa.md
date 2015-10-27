@@ -1,12 +1,12 @@
 ---
 description: 'Parties & Outings for Birthdays, Schools or Scouts We run fantastic ninja parties that any young ninja would enjoy. Sword fighting, ninja star throwing, obstacl'
 author: []
-datePublished: '2015-10-27T03:09:22.079Z'
+datePublished: '2015-10-27T03:09:27.892Z'
 publisher:
   domain: coloradoninjutsu.com
   name: coloradoninjutsu.com
 title: ''
-dateModified: '2015-10-22T18:18:23.316Z'
+dateModified: '2015-10-27T03:09:22.079Z'
 sourcePath: _posts/2015-10-22-parties-and-outings-for-birthdays-schools-or-scouts-we-run-fa.md
 published: true
 inFeed: true
